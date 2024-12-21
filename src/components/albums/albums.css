@@ -1,0 +1,23 @@
+.albums {
+    height: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 0.78), rgba(0, 0, 0, 0.95)), url('../../../public/images/cracked_wall.png') no-repeat center;
+    background-size: cover;
+}
+
+.album-card {
+    outline: none;
+    cursor: pointer;
+    background: none;
+    color: white;
+    border-radius: 4px;
+}
+
+.album-card-image {
+    width: 298px;
+    height: 298px;
+    object-fit: cover;
+}
+
+.album-card-body {
+    margin: 8px 0;
+}
