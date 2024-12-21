@@ -1,0 +1,21 @@
+.social-bar {
+    padding-top: 16px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+
+.social-button {
+    margin: 0 8px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    color: white;
+}
+
+.social-button:hover, .social-button:focus {
+    color: #c89500;
+}
