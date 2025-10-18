@@ -2,6 +2,20 @@ import {IAlbum} from "./albumsConfig.ts";
 
 export const albumsList: IAlbum[] = [
     {
+        id: 'leftist-panic-anthem-album-slide',
+        title: 'Leftist Panic Anthem',
+        description: 'Mad Tangent',
+        img: 'images/leftist_panic_anthem_cover.png',
+        link: 'https://open.spotify.com/track/473QFzyjvdTMQj7d7Guv5l?si=57a9d6b5a0284193'
+    },
+    {
+        id: 'doombringer-album-slide',
+        title: 'Doombringer',
+        description: 'What Weapons Bring War',
+        img: 'images/doombringer_cover.png',
+        link: 'https://open.spotify.com/album/25YeMnOiDbmA5FjTHFw6ze?si=2obqhx7YRpau8kAKpxM6wA'
+    },
+    {
         id: 'fractals-album-slide',
         title: 'Fractals (Horn Version)',
         description: 'Kameron Masullo',
