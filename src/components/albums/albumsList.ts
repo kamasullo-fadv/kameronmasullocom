@@ -12,7 +12,7 @@ export const albumsList: IAlbum[] = [
         id: 'doombringer-album-slide',
         title: 'Doombringer',
         description: 'What Weapons Bring War',
-        img: 'images/doombringer_cover.png',
+        img: 'images/doombringer_cover.JPG',
         link: 'https://open.spotify.com/album/25YeMnOiDbmA5FjTHFw6ze?si=2obqhx7YRpau8kAKpxM6wA'
     },
     {
